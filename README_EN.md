@@ -39,7 +39,7 @@ I continue to learn and experiment with AI, especially agents and language model
 
 ### [Thymira](https://github.com/marioo14/Thymira) · Multi-Agent AI System
 
-Master's Thesis project (2026), developed around a multi-agent approach for data science. Thymira received recognition in 2026 and is the project I choose to highlight as a practical expression of my interest in AI systems and intelligent automation.
+A team Master's Thesis project (2026) developed around a multi-agent approach to data science. Thymira won [first prize in Class 1 of NTIC Master's 2025–2026 Scholarship Competition](https://lnkd.in/p/eeGe_PJc). I highlight it as a practical expression of my interest in AI systems and intelligent automation.
 
 [![Explore Thymira](https://img.shields.io/badge/Explore%20the%20project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marioo14/Thymira)
 
