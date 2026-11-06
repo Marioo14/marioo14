@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario%20Calero-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-calero-cerradillo-618145235/)
 [![GitHub](https://img.shields.io/badge/GitHub-marioo14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marioo14)
 
-🇬🇧 **English** · [🇪🇸 Español](README_ES.md)
+🇬🇧 **English** · [🇪🇸 Español](README.md)
 
 </div>
 
