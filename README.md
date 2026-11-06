@@ -17,6 +17,8 @@ Soy un profesional de datos e inteligencia artificial con una trayectoria que co
 
 Mi formación combina el Doble Grado en Business Analytics y Administración y Dirección de Empresas con estudios de posgrado en Data Science, Big Data, Inteligencia Artificial y Nuevas Tecnologías de la Información y la Comunicación.
 
+Sigo aprendiendo y experimentando con inteligencia artificial, especialmente con agentes, modelos de lenguaje y formas de convertir nuevas ideas en soluciones útiles.
+
 ## Stack tecnológico
 
 <p>
