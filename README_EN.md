@@ -17,6 +17,8 @@ I am a data and AI professional with a background that connects business, analyt
 
 My academic path combines a Double Degree in Business Analytics and Business Administration with postgraduate training in Data Science, Big Data, Artificial Intelligence and New Information and Communication Technologies.
 
+I continue to learn and experiment with AI, especially agents and language models, and enjoy turning new ideas into useful solutions.
+
 ## Tech stack
 
 <p>
