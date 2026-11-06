@@ -39,7 +39,7 @@ Sigo aprendiendo y experimentando con inteligencia artificial, especialmente con
 
 ### [Thymira](https://github.com/marioo14/Thymira) · Sistema de IA multiagente
 
-Proyecto de Trabajo Fin de Máster (2026) desarrollado con un enfoque multiagente para data science. Thymira recibió un reconocimiento en 2026 y es el proyecto que destaco como expresión práctica de mi interés por los sistemas de IA y la automatización inteligente.
+Proyecto de Trabajo Fin de Máster (2026) desarrollado en equipo con un enfoque multiagente para data science. Thymira obtuvo el [primer premio en la Competición de Becas 2025–2026 de NTIC Master](https://lnkd.in/p/eeGe_PJc). Es el proyecto que destaco como expresión práctica de mi interés por los sistemas de IA y la automatización inteligente.
 
 [![Explorar Thymira](https://img.shields.io/badge/Explorar%20el%20proyecto-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marioo14/Thymira)
 
